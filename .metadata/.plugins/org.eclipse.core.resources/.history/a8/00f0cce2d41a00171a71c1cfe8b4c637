@@ -1,0 +1,5 @@
+package inter.method;
+
+public interface Prototype {
+
+}

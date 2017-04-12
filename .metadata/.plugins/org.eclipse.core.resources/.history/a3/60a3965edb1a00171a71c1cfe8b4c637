@@ -1,0 +1,14 @@
+package inter.pro.two;
+/**
+ * 
+ * @author zengrong
+ *
+ */
+public interface PrototypeTwo {
+
+		public PrototypeTwo clone();
+	    public String getName();
+	    public void setName(String name);
+	
+	
+}

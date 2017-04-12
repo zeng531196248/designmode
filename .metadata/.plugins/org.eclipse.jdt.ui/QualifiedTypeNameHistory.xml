@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="iterator.Method.Aggregate"/>
+<fullyQualifiedTypeName name="iterator.Method.Iterator"/>
+<fullyQualifiedTypeName name="iterator.Method.IteratorBookshelf"/>
+<fullyQualifiedTypeName name="iterator.Model.BookShelf"/>
+<fullyQualifiedTypeName name="iterator.Model.Book"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="template.method.ch.StOne"/>
+<fullyQualifiedTypeName name="template.method.AbstractDisPlay"/>
+<fullyQualifiedTypeName name="template.method.ch.StTwo"/>
+<fullyQualifiedTypeName name="inter.method.Prototype"/>
+<fullyQualifiedTypeName name="impl.method.Client"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="inter.pro.two.PromManger"/>
+<fullyQualifiedTypeName name="inter.pro.two.PrototypeTwo"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

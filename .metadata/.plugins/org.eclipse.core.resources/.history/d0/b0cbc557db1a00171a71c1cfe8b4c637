@@ -1,0 +1,5 @@
+package inter.pro.two;
+
+public interface PrototypeTwo {
+
+}

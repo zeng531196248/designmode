@@ -1,0 +1,21 @@
+package impl.method;
+
+import inter.method.Prototype;
+
+/**
+ * 客户端
+ * @author zengrong
+ *
+ */
+public class Client {
+
+	/**
+	 * 需要创建的原型
+	 */
+	
+	private Prototype prototype;
+	
+	Client( Prototype prototype){
+		this.prototype=prototype;
+	}
+}

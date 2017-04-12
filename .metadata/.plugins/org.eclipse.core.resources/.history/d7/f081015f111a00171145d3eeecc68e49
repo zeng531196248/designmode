@@ -1,0 +1,18 @@
+package single.method;
+/**
+ * 懒汉式
+ * @author zengrong
+ *
+ */
+public class lSingle {
+
+	private lSingle single=null;
+	
+	private lSingle(){}
+	
+	public lSingle getLSingle() {
+	return single==null ?new lSingle():single;
+	}
+	
+	
+}

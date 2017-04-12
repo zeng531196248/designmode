@@ -1,0 +1,5 @@
+package inter.method;
+
+public class ConcretePrototype1 implements Prototype {
+
+}

@@ -1,0 +1,20 @@
+package single.method;
+/**
+ * 饿汉
+ * @author zengrong
+ *
+ */
+public class eSingle {
+	private static eSingle single =new eSingle();
+	
+	private eSingle(){}
+	
+	public eSingle getInESingle() {
+		return single;
+		
+	}
+	
+	
+	
+	
+}

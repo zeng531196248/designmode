@@ -1,0 +1,26 @@
+package adapter.model;
+/**
+ * 相当于小姐妹的"经济人"
+ * @author zengrong
+ *
+ */
+public class PrintBanner extends Banner implements Print {
+
+
+	public PrintBanner(String name) {
+		super(name);
+	}
+
+	@Override
+	public void printHow() {
+	
+		showWithAster();
+	}
+
+	@Override
+	public void printOneNightHowMuch() {
+		showwithParen();
+		
+	}
+
+}
